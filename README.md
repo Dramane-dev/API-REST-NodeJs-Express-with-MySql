@@ -3,9 +3,10 @@
 Voici une petite API REST NodeJs avec MySql. 
 Différentes opérations CRUD.
 
-
 **NodeJs doit être installé :** https://nodejs.org/en/download/
 
+Pour la base de données, j'utilise MySql. 
+Pour créer la connexion j'utilise MAMP : https://www.mamp.info/en/downloads/
 
 # PART I: Download & Build on local ✅
 
