@@ -1,6 +1,6 @@
 # API-REST-NodeJs-Express-with-MySql
 
-Voici une petite API REST NodeJs avec MySql. 
+API REST NodeJs avec MySql. 
 Différentes opérations CRUD.
 
 **NodeJs doit être installé :** https://nodejs.org/en/download/
